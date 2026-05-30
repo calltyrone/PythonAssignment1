@@ -1,21 +1,6 @@
 # welcome_assignment_answers
 # Input - All nine questions given in the assignment.
 # Output - The right answer for the specific question.
-
-def welcome_assignment_answers(question):
-    # Students do not have to follow the skeleton for this assignment.
-    # Another way to implement is using a "case" statements similar to C.
-    if question == "Are encoding and encryption the same? - Yes/No":
-        answer = "No"
-    elif question == "Is it possible to decrypt a message without a key? - Yes/No":
-        answer = "Yes"
-    else:
-        # you should understand why this else case should be included
-        # what happens if there is a typo in one of the questions?
-        # maybe put something here to flag an issue and catch errors
-        answer = "This is not my beautiful wife! This is not my beautiful car! How did I get here?"
-    return (answer)
-
 # Complete all the questions.
 
 
